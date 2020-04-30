@@ -1,0 +1,25 @@
+出场时间       time
+投篮命中       shotHit
+投篮出手       totalShot
+三分命中       threeHit
+三分出手       threeShot
+罚球命中       penaltyShot
+罚球出手       totalPenalty
+前场板         offensive_rebound
+后场板         defensive_rebound
+篮板           rebound
+助攻           assistance
+犯规           foul
+抢断           steal
+失误           fault
+封盖           block
+得分           score
+正负值         positive_negative_point
+
+
+
+数据名词:dataNoun
+
+
+
+
